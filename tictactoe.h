@@ -1,0 +1,30 @@
+typedef int I;
+typedef void V;
+typedef char C;
+I i=0,m,n;
+C v;
+I player;
+I grid[9] = {0,0,0,0,0,0,0,0,0};
+V intro();
+V names();
+V player1(I grid[9]);
+V computer(I grid[9]);
+V turns();
+V printgrid(I a[9]);
+V choice(I a[9],I m, C n[]);
+I won(I grid[9]);
+V toss();
+V check();
+V mode();
+V single();
+V multi();
+I think(I grid[9], I player);
+V congo();
+V lose();
+V thanks();
+V draw();
+static struct players{
+    C name[20];
+    I sym;
+}P1, P2;
+

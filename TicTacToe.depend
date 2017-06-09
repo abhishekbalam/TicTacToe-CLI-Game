@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1431887294 source:f:\computers\new folder\simple interest\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1431887294 
+
+1445709340 source:f:\computers\practice\programming\c\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"tictactoe.h"
+
+1445709340 .h"
+
+1432286919 source:f:\computers\practice\programming\c\tictactoe\resource.rc
+
+1433652739 f:\computers\practice\programming\c\tictactoe\tictactoe.h
+
+1432286919 source:/media/CS/PRACTICE/Programming/C/TicTacToe/resource.rc
+
