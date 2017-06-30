@@ -21,3 +21,13 @@
 
 1432286919 source:/media/CS/PRACTICE/Programming/C/TicTacToe/resource.rc
 
+1498848246 source:/home/abhishek/Projects/C++/TicTacToe-CLI-Game/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tictactoe.h"
+
+1498847286 /home/abhishek/Projects/C++/TicTacToe-CLI-Game/tictactoe.h
+
+1498847286 source:/home/abhishek/Projects/C++/TicTacToe-CLI-Game/resource.rc
+
